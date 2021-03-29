@@ -1,0 +1,6 @@
+ultimaker 2+
+pla filament
+nozzle diameter 0.4mm (except 1 of them is 0.8mm)
+layer height 0.2mm (best) 0.25-0.3 (draft)
+infill 10-20%
+print speed 60-80mm/s

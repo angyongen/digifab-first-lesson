@@ -1,0 +1,21 @@
+https://rdorville.github.io/digfab/
+https://rdorville.github.io/digfab/presentations/presentations.html
+https://rdorville.github.io/digfab/presentations/project_documentation/project_documentation.html#1
+
+
+by simply typing <html> in a file with html file type
+(you can set the file type using the extension or set it at the bottom right corner)
+, sublime text 3 autofills a html template
+INFINITE UNDOS in sublime text!
+By typing the tag name (e.g "li") and pressing tab, you can autofill the whole tag
+no need to be expert: "we are not web designers"
+( except i wanna )
+
+RESOURCES / Alternative Software
+portable apps
+portable freeware
+gimp
+inkscape
+libreoffice
+darktable (lightroom)
+
